@@ -1,0 +1,229 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "latitude": "39.65",
+      "longitude": "-8.8299",
+      "name": "Quinta do Sobrado",
+      "latLng": [
+        39.65,
+        -8.8299
+      ],
+      "status": false,
+      "data": [
+        {
+          "title": "text"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "latitude": "28.38036",
+      "longitude": "108.91068",
+      "name": "Xiaoxi",
+      "latLng": [
+        28.38036,
+        108.91068
+      ],
+      "status": false
+    },
+    {
+      "id": 2,
+      "latitude": "30.3516",
+      "longitude": "120.28559",
+      "name": "Qiaosi",
+      "latLng": [
+        30.3516,
+        120.28559
+      ],
+      "status": false
+    },
+    {
+      "id": 3,
+      "latitude": "10.3349",
+      "longitude": "123.3259",
+      "name": "Vallehermoso",
+      "latLng": [
+        10.3349,
+        123.3259
+      ],
+      "status": true
+    },
+    {
+      "id": 4,
+      "latitude": "45.72538",
+      "longitude": "20.69008",
+      "name": "Srpska Crnja",
+      "latLng": [
+        45.72538,
+        20.69008
+      ],
+      "status": true
+    },
+    {
+      "id": 5,
+      "latitude": "-8.1069",
+      "longitude": "111.9403",
+      "name": "Doropayung",
+      "latLng": [
+        -8.1069,
+        111.9403
+      ],
+      "status": true
+    },
+    {
+      "id": 6,
+      "latitude": "-6.979",
+      "longitude": "111.479",
+      "name": "Jeponkrajan",
+      "latLng": [
+        -6.979,
+        111.479
+      ],
+      "status": true
+    },
+    {
+      "id": 7,
+      "latitude": "8.31722",
+      "longitude": "126.28111",
+      "name": "Bigaan",
+      "latLng": [
+        8.31722,
+        126.28111
+      ],
+      "status": true
+    },
+    {
+      "id": 8,
+      "latitude": "16.79183",
+      "longitude": "-62.21058",
+      "name": "Brades",
+      "latLng": [
+        16.79183,
+        -62.21058
+      ],
+      "status": false
+    },
+    {
+      "id": 9,
+      "latitude": "8.1613",
+      "longitude": "123.9583",
+      "name": "Maigo",
+      "latLng": [
+        8.1613,
+        123.9583
+      ],
+      "status": false
+    },
+    {
+      "id": 10,
+      "latitude": "-7.5632",
+      "longitude": "108.6946",
+      "name": "Nagrak",
+      "latLng": [
+        -7.5632,
+        108.6946
+      ],
+      "status": false
+    },
+    {
+      "id": 11,
+      "latitude": "-17.31159",
+      "longitude": "31.57561",
+      "name": "Shamva",
+      "latLng": [
+        -17.31159,
+        31.57561
+      ],
+      "status": true
+    },
+    {
+      "id": 12,
+      "latitude": "43.85518",
+      "longitude": "131.86258",
+      "name": "Novonikol’sk",
+      "latLng": [
+        43.85518,
+        131.86258
+      ],
+      "status": true
+    },
+    {
+      "id": 13,
+      "latitude": "35.41667",
+      "longitude": "140.3",
+      "name": "Mobara",
+      "latLng": [
+        35.41667,
+        140.3
+      ],
+      "status": false
+    },
+    {
+      "id": 14,
+      "latitude": "51.28581",
+      "longitude": "22.21539",
+      "name": "Nałęczów",
+      "latLng": [
+        51.28581,
+        22.21539
+      ],
+      "status": false
+    },
+    {
+      "id": 15,
+      "latitude": "41.6167",
+      "longitude": "-8.4",
+      "name": "São João",
+      "latLng": [
+        41.6167,
+        -8.4
+      ],
+      "status": true
+    },
+    {
+      "id": 16,
+      "latitude": "-8.2672",
+      "longitude": "113.7496",
+      "name": "Krajan Suco",
+      "latLng": [
+        -8.2672,
+        113.7496
+      ],
+      "status": true
+    },
+    {
+      "id": 17,
+      "latitude": "-4.33112",
+      "longitude": "20.58638",
+      "name": "Ilebo",
+      "latLng": [
+        -4.33112,
+        20.58638
+      ],
+      "status": true
+    },
+    {
+      "id": 18,
+      "latitude": "41.05",
+      "longitude": "-7.5667",
+      "name": "Arcos",
+      "latLng": [
+        41.05,
+        -7.5667
+      ],
+      "status": true
+    },
+    {
+      "id": 19,
+      "latitude": "-25.25",
+      "longitude": "-57.06667",
+      "name": "Tobatí",
+      "latLng": [
+        -25.25,
+        -57.06667
+      ],
+      "status": false
+    }
+  ]
+}
