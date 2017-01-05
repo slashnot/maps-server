@@ -1,0 +1,364 @@
+{
+  "nodes": [
+    {
+      "id": 1,
+      "name": "Fatukanutu",
+      "locId": "fatukanutu",
+      "latitude": "-10.169",
+      "longitude": "123.9003",
+      "latLng": [-10.169,123.9003],
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "Santa Rita Aplaya",
+      "locId": "santa_rita_aplaya",
+      "latitude": "13.7726",
+      "longitude": "121.0259",
+      "latLng": [13.7726,121.0259],
+      "status": false
+    },
+    {
+      "id": 3,
+      "name": "Bar-le-Duc",
+      "locId": "bar-le-duc",
+      "latitude": "48.7833",
+      "longitude": "5.1667",
+      "latLng": [48.7833,5.1667],
+      "status": false
+    },
+    {
+      "id": 4,
+      "name": "Pingli",
+      "locId": "pingli",
+      "latitude": "29.73666",
+      "longitude": "117.60911",
+      "latLng": [29.73666,117.60911],
+      "status": false
+    },
+    {
+      "id": 5,
+      "name": "Mezhdurechensk",
+      "locId": "mezhdurechensk",
+      "latitude": "53.69417",
+      "longitude": "88.06028",
+      "latLng": [53.69417,88.06028],
+      "status": false
+    },
+    {
+      "id": 6,
+      "name": "Niš",
+      "locId": "niš",
+      "latitude": "43.32472",
+      "longitude": "21.90333",
+      "latLng": [43.32472,21.90333],
+      "status": true
+    },
+    {
+      "id": 7,
+      "name": "Sindangsari",
+      "locId": "sindangsari",
+      "latitude": "-7.8108",
+      "longitude": "108.4396",
+      "latLng": [-7.8108,108.4396],
+      "status": true
+    },
+    {
+      "id": 8,
+      "name": "Ponte da Pedra",
+      "locId": "ponte_da_pedra",
+      "latitude": "39.875",
+      "longitude": "-8.575",
+      "latLng": [39.875,-8.575],
+      "status": false
+    },
+    {
+      "id": 9,
+      "name": "Philadelphia",
+      "locId": "philadelphia",
+      "latitude": "39.9597",
+      "longitude": "-75.2024",
+      "latLng": [39.9597,-75.2024],
+      "status": false
+    },
+    {
+      "id": 10,
+      "name": "Puncakbaru",
+      "locId": "puncakbaru",
+      "latitude": "-7.3348",
+      "longitude": "107.4481",
+      "latLng": [-7.3348,107.4481],
+      "status": false
+    },
+    {
+      "id": 11,
+      "name": "Tongshanxiang",
+      "locId": "tongshanxiang",
+      "latitude": "28.83985",
+      "longitude": "116.79572",
+      "latLng": [28.83985,116.79572],
+      "status": true
+    },
+    {
+      "id": 12,
+      "name": "Barra do Bugres",
+      "locId": "barra_do_bugres",
+      "latitude": "-15.0725",
+      "longitude": "-57.18111",
+      "latLng": [-15.0725,-57.18111],
+      "status": false
+    },
+    {
+      "id": 13,
+      "name": "Kizema",
+      "locId": "kizema",
+      "latitude": "61.11304",
+      "longitude": "44.83017",
+      "latLng": [61.11304,44.83017],
+      "status": false
+    },
+    {
+      "id": 14,
+      "name": "Jurangjero",
+      "locId": "jurangjero",
+      "latitude": "-6.6455",
+      "longitude": "111.4832",
+      "latLng": [-6.6455,111.4832],
+      "status": false
+    },
+    {
+      "id": 15,
+      "name": "Jiucheng",
+      "locId": "jiucheng",
+      "latitude": "28.74138",
+      "longitude": "107.68037",
+      "latLng": [28.74138,107.68037],
+      "status": true
+    },
+    {
+      "id": 16,
+      "name": "Campor",
+      "locId": "campor",
+      "latitude": "-6.9729",
+      "longitude": "112.8851",
+      "latLng": [-6.9729,112.8851],
+      "status": false
+    },
+    {
+      "id": 17,
+      "name": "Pinhal de Frades",
+      "locId": "pinhal_de_frades",
+      "latitude": "38.6167",
+      "longitude": "-9.1",
+      "latLng": [38.6167,-9.1],
+      "status": true
+    },
+    {
+      "id": 18,
+      "name": "Aotou",
+      "locId": "aotou",
+      "latitude": "23.62051",
+      "longitude": "113.41541",
+      "latLng": [23.62051,113.41541],
+      "status": true
+    },
+    {
+      "id": 19,
+      "name": "Malinovoye Ozero",
+      "locId": "malinovoye_ozero",
+      "latitude": "51.67528",
+      "longitude": "79.7825",
+      "latLng": [51.67528,79.7825],
+      "status": true
+    },
+    {
+      "id": 20,
+      "name": "San Antonio",
+      "locId": "san_antonio",
+      "latitude": "-14.16472",
+      "longitude": "-72.62111",
+      "latLng": [-14.16472,-72.62111],
+      "status": false
+    },
+    {
+      "id": 21,
+      "name": "Rietavas",
+      "locId": "rietavas",
+      "latitude": "55.71944",
+      "longitude": "21.93111",
+      "latLng": [55.71944,21.93111],
+      "status": false
+    },
+    {
+      "id": 22,
+      "name": "Trzebiatów",
+      "locId": "trzebiatów",
+      "latitude": "54.06147",
+      "longitude": "15.26475",
+      "latLng": [54.06147,15.26475],
+      "status": true
+    },
+    {
+      "id": 23,
+      "name": "Gangkou",
+      "locId": "gangkou",
+      "latitude": "28.73556",
+      "longitude": "114.28918",
+      "latLng": [28.73556,114.28918],
+      "status": false
+    },
+    {
+      "id": 24,
+      "name": "Sabana Iglesia",
+      "locId": "sabana_iglesia",
+      "latitude": "19.32114",
+      "longitude": "-70.75992",
+      "latLng": [19.32114,-70.75992],
+      "status": false
+    },
+    {
+      "id": 25,
+      "name": "Kandhkot",
+      "locId": "kandhkot",
+      "latitude": "28.24396",
+      "longitude": "69.18235",
+      "latLng": [28.24396,69.18235],
+      "status": false
+    },
+    {
+      "id": 26,
+      "name": "Lancaster",
+      "locId": "lancaster",
+      "latitude": "33.7866",
+      "longitude": "-118.2987",
+      "latLng": [33.7866,-118.2987],
+      "status": true
+    },
+    {
+      "id": 27,
+      "name": "Cagmanaba",
+      "locId": "cagmanaba",
+      "latitude": "13.05501",
+      "longitude": "123.29706",
+      "latLng": [13.05501,123.29706],
+      "status": true
+    },
+    {
+      "id": 28,
+      "name": "Zhongzuiling",
+      "locId": "zhongzuiling",
+      "latitude": "35.63058",
+      "longitude": "102.92672",
+      "latLng": [35.63058,102.92672],
+      "status": false
+    },
+    {
+      "id": 29,
+      "name": "Sakurai",
+      "locId": "sakurai",
+      "latitude": "34.5",
+      "longitude": "135.85",
+      "latLng": [34.5,135.85],
+      "status": true
+    },
+    {
+      "id": 30,
+      "name": "Itoigawa",
+      "locId": "itoigawa",
+      "latitude": "37.03333",
+      "longitude": "137.85",
+      "latLng": [37.03333,137.85],
+      "status": true
+    },
+    {
+      "id": 31,
+      "name": "Sankt Andrä-Höch",
+      "locId": "sankt_andrä-höch",
+      "latitude": "46.8907",
+      "longitude": "15.3239",
+      "latLng": [46.8907,15.3239],
+      "status": true
+    },
+    {
+      "id": 32,
+      "name": "Bhamdoun",
+      "locId": "bhamdoun",
+      "latitude": "33.795",
+      "longitude": "35.65111",
+      "latLng": [33.795,35.65111],
+      "status": true
+    },
+    {
+      "id": 33,
+      "name": "Duraykīsh",
+      "locId": "duraykīsh",
+      "latitude": "34.89637",
+      "longitude": "36.13138",
+      "latLng": [34.89637,36.13138],
+      "status": true
+    },
+    {
+      "id": 34,
+      "name": "Gawul",
+      "locId": "gawul",
+      "latitude": "-7.66",
+      "longitude": "108.0786",
+      "latLng": [-7.66,108.0786],
+      "status": false
+    },
+    {
+      "id": 35,
+      "name": "Carrascal",
+      "locId": "carrascal",
+      "latitude": "39.7167",
+      "longitude": "-7.9833",
+      "latLng": [39.7167,-7.9833],
+      "status": false
+    },
+    {
+      "id": 36,
+      "name": "Batouri",
+      "locId": "batouri",
+      "latitude": "4.43333",
+      "longitude": "14.36667",
+      "latLng": [4.43333,14.36667],
+      "status": true
+    },
+    {
+      "id": 37,
+      "name": "Kopychyntsi",
+      "locId": "kopychyntsi",
+      "latitude": "49.10441",
+      "longitude": "25.91026",
+      "latLng": [49.10441,25.91026],
+      "status": true
+    },
+    {
+      "id": 38,
+      "name": "Inari",
+      "locId": "inari",
+      "latitude": "68.90596",
+      "longitude": "27.02881",
+      "latLng": [68.90596,27.02881],
+      "status": true
+    },
+    {
+      "id": 39,
+      "name": "Pindi Bhattiān",
+      "locId": "pindi_bhattiān",
+      "latitude": "31.89781",
+      "longitude": "73.27302",
+      "latLng": [31.89781,73.27302],
+      "status": false
+    },
+    {
+      "id": 40,
+      "name": "Padang",
+      "locId": "padang",
+      "latitude": "-0.94924",
+      "longitude": "100.35427",
+      "latLng": [-0.94924,100.35427],
+      "status": false
+    }
+  ]
+}
