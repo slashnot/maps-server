@@ -1,11 +1,29 @@
-// server.js
-var jsonServer = require('json-server')
-var server = jsonServer.create()
-var router = jsonServer.router('data.json')
-var middlewares = jsonServer.defaults()
+var jsonServer = require('json-server');
 
-server.use(middlewares)
-server.use(router)
-server.listen(3000, function () {
-  console.log('JSON Server is running');
-})
+var server = jsonServer.create();
+
+server.set('port', (process.env.PORT || 5000));
+
+server.use(jsonServer.defaults());
+
+var router = jsonServer.router('data.json');
+
+//Custom Routes
+// Add this before server.use(router)
+// server.use(jsonServer.rewriter({
+//   '/api/': '/',
+//   '/v1/users/login': '/login',
+//   '/v1/users/profile': '/profile',
+//   '/v1/transactions':'/transactions',
+//   '/v1/balances':'/balances',
+//   '/v1/updates':'/updates',
+//   '/v1/tickets':'/tickets',
+//   '/v1/neighbours':'/neighbours',
+//   '/v1/access':'/access'
+// }));
+
+server.use(router);
+
+server.listen(server.get('port'), function() {
+  console.log('Node app is running on port', server.get('port'));
+});
