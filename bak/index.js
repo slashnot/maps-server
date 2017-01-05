@@ -6,7 +6,7 @@ server.set('port', (process.env.PORT || 5000));
 
 server.use(jsonServer.defaults());
 
-var router = jsonServer.router('mapsnodes.json');
+var router = jsonServer.router('data.json');
 
 //Custom Routes
 // Add this before server.use(router)
